@@ -3,7 +3,7 @@
 **`Estudante de Engenharia de Computação`**
 
 <p align="left">
-  <a href="https://linkedin.com/tairone-limaz7">
+  <a href="https://linkedin.com/in/tairone-limaz7">
     <img 
       alt="Linkedin" 
       title="Linkedin" 
