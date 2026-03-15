@@ -7,7 +7,7 @@
     <img 
       alt="Linkedin" 
       title="Linkedin" 
-      src="https://custom-icon-badges.demolab.com/badge/Linkedin-Thiago_Marques_Reis-236ad3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=""&logoColor=white" 
+      src="https://custom-icon-badges.demolab.com/badge/Linkedin-Tairone_Lima-236ad3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=""&logoColor=white" 
     />
   </a>
 </p>
